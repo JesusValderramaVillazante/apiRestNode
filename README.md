@@ -11,6 +11,7 @@
 ```sh
 nodemon build/index.js
 ```
+-   `@types/express`: Este paquete contiene las definiciones de tipo Express.
 
 ## Lenguaje programacion
 -   `typeScript`: TypeScript es un lenguaje de programación de código abierto con herramientas de programación orientada a objetos, muy favorable.
